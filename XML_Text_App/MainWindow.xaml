@@ -6,7 +6,6 @@
         xmlns:local="clr-namespace:XML_Text_App"
         mc:Ignorable="d"
         Title="XML Coloring"
-        Icon=""
         Width="400"
         Height="400"
         >
